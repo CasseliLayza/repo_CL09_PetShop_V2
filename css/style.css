@@ -3,7 +3,7 @@
     color: white;
     position: relative;
     font-size: 10px;
-    width: 1024px;
+    /* width: 1024px; */
     height: 20px;
     
 }
@@ -50,7 +50,7 @@
 .encabezado {
     background-color:  #F0A83E;
     position: relative;
-    width: 1024px;
+    /* width: 1024px; */
     height: 62px;
 
 }
@@ -125,7 +125,7 @@
     height: 409px;
     position: relative;
     border-radius: 5px;
-    width: 1025px;
+    /* width: 1025px; */
     height: 409px;
 }
 
@@ -426,7 +426,7 @@
 /* suscripcion */
 
 .suscribete {
-    width: 1024px;
+    /* width: 1024px; */
     height: 60px;
     background: #F0A83E;
     position: relative;
@@ -523,7 +523,7 @@
 
 .footer {
    
-    width: 1024px;
+    /* width: 1024px; */
     height: 284px;
     position: relative;
     background: #3C2313;
@@ -688,36 +688,11 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* derechos reservados */
 
 .derecheosReservados {
  
-    width: 1024px;
+    /* width: 1024px; */
     height: 20px;
     bottom: 0px;
     background: #222222;
